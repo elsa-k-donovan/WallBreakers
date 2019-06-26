@@ -5,7 +5,7 @@ public:
 		//initialize new array
 		vector<int> result;
 
-		for (int i : A) {
+		for (int i = 0; i < A.size(); i++) {
 			if A[i] % 2 == 0
 				result.insert(0,A[i]);
 			else

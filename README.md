@@ -2,8 +2,8 @@
 
 ## Week1
 
-- [ ] Array
-[x] Sort Array By Parity
+### Array
+- [x] Sort Array By Parity
 
 
 

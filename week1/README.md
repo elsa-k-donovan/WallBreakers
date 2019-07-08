@@ -26,7 +26,7 @@
 - [x] Single Number
 
 ### Hashmaps and Sets
-- [x] Two Sum
+- [ ] Two Sum
 - [x] Valid Anagram
 
 ### Union Find

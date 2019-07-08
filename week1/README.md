@@ -9,6 +9,7 @@
 - [x] Self Dividing Numbers
 - [x] Fizz Buzz
 - [x] Plus One
+- [x] Excel Sheet Column Number
 - [x] Power of Two
 
 ### Simple String Manipulation

@@ -17,7 +17,7 @@
 - [x] Reverse Words in a String III
 - [x] Valid Palindrome
 - [x] Reverse Vowels of a String
-- [x] Longest Common Prefix
+- [ ] Longest Common Prefix
 
 ### Simple Bitwise Manipulation
 - [x] Number Complement

@@ -11,6 +11,7 @@
 - [x] Self Dividing Numbers
 - [x] Fizz Buzz
 - [x] Plus One
+- [x] Excel Sheet Column Number
 - [x] Power of Two
 
 ### Simple String Manipulation
@@ -19,13 +20,13 @@
 - [x] Reverse Words in a String III
 - [x] Valid Palindrome
 - [x] Reverse Vowels of a String
-- [x] Longest Common Prefix
+- [ ] Longest Common Prefix
 
 ### Simple Bitwise Manipulation
 - [x] Number Complement
-- [x] Hamming Distance
-- [x] Binary Gap
-- [x] Single Number
+- [ ] Hamming Distance
+- [ ] Binary Gap
+- [ ] Single Number
 
 ### Hashmaps and Sets
 - [ ] Two Sum

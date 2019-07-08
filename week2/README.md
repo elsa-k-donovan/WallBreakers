@@ -3,10 +3,10 @@
 ### Hashmaps and Sets
 - [x] Jewels and Stones
 - [x] Unique Morse Code Words
-- [ ] Happy Number
+- [x] Happy Number
 - [x] Uncommon Words From Two Sentences
 - [x] Distribute Candies
-- [x] Groups of Special Equivalent Strings
+- [ ] Groups of Special Equivalent Strings
 - [x] Intersection of Two Arrays
 - [ ] Valid Sudoku
 - [ ] Isomorphic Strings
@@ -20,7 +20,7 @@
 - [ ] Subdomain Visit Count
 - [ ] Find the Difference
 - [ ] Most Common Word
-- [x] Sort Characters By Frequency
+- [ ] Sort Characters By Frequency
 - [ ] Set Mismatch
 - [ ] Number of Atoms
 

@@ -49,6 +49,7 @@
 - [x] Intersection of Two Arrays
 - [ ] Valid Sudoku
 - [ ] Isomorphic Strings
+- [ ] Word Patterns
 - [ ] Design Hashmap
 - [ ] Design Hashset
 

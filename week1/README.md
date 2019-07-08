@@ -21,9 +21,9 @@
 
 ### Simple Bitwise Manipulation
 - [x] Number Complement
-- [x] Hamming Distance
-- [x] Binary Gap
-- [x] Single Number
+- [ ] Hamming Distance
+- [ ] Binary Gap
+- [ ] Single Number
 
 ### Hashmaps and Sets
 - [ ] Two Sum

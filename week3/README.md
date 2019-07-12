@@ -2,7 +2,7 @@
 
 ### Greedy Algorithms
 - [ ] Lemonade Change
-- [ ] Assign Cookies
+- [x] Assign Cookies
 - [ ] Is Subsequence
 - [ ] Minimum Number of Arrows to Burst Balloons
 - [ ] Partition Labels

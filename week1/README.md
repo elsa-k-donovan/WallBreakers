@@ -22,7 +22,7 @@
 
 ### Simple Bitwise Manipulation
 - [x] Number Complement
-- [ ] Hamming Distance
+- [x] Hamming Distance
 - [ ] Binary Gap
 - [ ] Single Number
 

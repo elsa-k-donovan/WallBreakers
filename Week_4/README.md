@@ -3,37 +3,36 @@
 ## Week #4
 
 ### Linked Lists
-- [x] Sort Array By Parity
-- [x] Transpose Matrix
-- [x] Flipping An Image
+- [ ] Reversed Linked List
+- [ ] Odd Even Linked List
+- [ ] Reverse Nodes in K Group
+- [ ] LRU Cache
 
 ### Stacks
-- [x] Self Dividing Numbers
-- [x] Fizz Buzz
-- [x] Plus One
-- [x] Excel Sheet Column Number
-- [x] Power of Two
+- [ ] Baseball Game
+- [ ] Next Greater Element I
+- [ ] Valid Parentheses
+- [ ] Score of Parentheses
 
 ### Queues
-- [x] Reverse String
-- [x] Detect Capital
-- [x] Reverse Words in a String III
-- [x] Valid Palindrome
-- [x] Reverse Vowels of a String
-- [ ] Longest Common Prefix
+- [ ] Implement Stack Using Queues
+- [ ] Implement Queue Using Stacks
+- [ ] Rotate Array
 
 ### Heaps
-- [x] Number Complement
-- [ ] Hamming Distance
-- [ ] Binary Gap
-- [ ] Single Number
+- [ ] Top K Frequent Elements
+- [ ] Merge K Sorted Lists
 
 ### Combinatorial Generation
-- [ ] Two Sum
-- [x] Valid Anagram
+- [ ] Subsets
+- [ ] Permutations
+- [ ] Combinations
+- [ ] Generate Parentheses
+- [ ] Gray Code
 
 ### Backtracking
-- [ ] Friend Circles
-- [ ] Number of Islands
-- [ ] Surrounded Regions
+- [ ] Combination Sum
+- [ ] Partition Equal Subset Sum
+- [ ] Partition to K Equal Sum Subsets
+- [ ] Sudoku Solver
 

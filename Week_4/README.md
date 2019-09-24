@@ -3,7 +3,7 @@
 ## Week #4
 
 ### Linked Lists
-- [ ] Reversed Linked List
+- [ ] Reverse Linked List
 - [ ] Odd Even Linked List
 - [ ] Reverse Nodes in K Group
 - [ ] LRU Cache

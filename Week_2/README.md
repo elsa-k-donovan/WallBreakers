@@ -14,7 +14,7 @@
 - [ ] Design Hashmap
 - [ ] Design Hashset
 
-### Multiset
+### Multisets
 - [x] Find All Anagrams in a String
 - [ ] First Unique Character in a String
 - [ ] Subdomain Visit Count

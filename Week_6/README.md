@@ -1,73 +1,45 @@
 # WallBreakers
 
-## Week #1
+## Week #6
 
-### Array
-- [x] Sort Array By Parity
-- [x] Transpose Matrix
-- [x] Flipping An Image
+### Simple Preforking Echo Server
+- [ ] Implementation
 
-### Basic Mathematics and Modular Arithmetics
-- [x] Self Dividing Numbers
-- [x] Fizz Buzz
-- [x] Plus One
-- [x] Excel Sheet Column Number
-- [x] Power of Two
+### Multithreaded Merge Sort
+- [ ] Implementation
 
-### Simple String Manipulation
-- [x] Reverse String
-- [x] Detect Capital
-- [x] Reverse Words in a String III
-- [x] Valid Palindrome
-- [x] Reverse Vowels of a String
-- [ ] Longest Common Prefix
+### Resources
 
-### Simple Bitwise Manipulation
-- [x] Number Complement
-- [ ] Hamming Distance
-- [ ] Binary Gap
-- [ ] Single Number
+- [ ] https://www.geeksforgeeks.org/merge-sort-using-multi-threading/
 
-### Hashmaps and Sets
-- [ ] Two Sum
-- [x] Valid Anagram
-
-### Union Find
-- [ ] Friend Circles
-- [ ] Number of Islands
-- [ ] Surrounded Regions
+#### Network
+https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
+https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/
+https://www.youtube.com/watch?v=uwoD5YsGACg&vl=en
+https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/
+Python/Ruby
+https://tomayko.com/blog/2009/unicorn-is-unix
+https://gist.github.com/fuentesjr/240063
+https://wiki.python.org/moin/UdpCommunication
 
 
-## Week #2
+##### Multithreading
+https://www.geeksforgeeks.org/mutex-vs-semaphore/
+https://stackoverflow.com/questions/34510/what-is-a-race-condition
+https://www.sitepoint.com/dangers-race-conditions/
+https://www.slashroot.in/difference-between-process-and-thread-linux
+Python
+https://www.tutorialspoint.com/python/python_multithreading.htm
+https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b
+https://docs.python.org/3/c-api/init.html#thread-state-and-the-global-interpreter-lock
+Java
+https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples/
+https://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/
+	
+##### File system
+https://www.tecmint.com/explanation-of-everything-is-a-file-and-types-of-files-in-linux/
+http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/dev.html
+http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html
 
-### Hashmaps and Sets
-- [x] Jewels and Stones
-- [x] Unique Morse Code Words
-- [ ] Happy Number
-- [x] Uncommon Words From Two Sentences
-- [x] Distribute Candies
-- [x] Groups of Special Equivalent Strings
-- [x] Intersection of Two Arrays
-- [ ] Valid Sudoku
-- [ ] Isomorphic Strings
-- [ ] Word Patterns
-- [ ] Design Hashmap
-- [ ] Design Hashset
-
-### Multiset
-- [x] Find All Anagrams in a String
-- [ ] First Unique Character in a String
-- [ ] Subdomain Visit Count
-- [ ] Find the Difference
-- [ ] Most Common Word
-- [x] Sort Characters By Frequency
-- [ ] Set Mismatch
-- [ ] Number of Atoms
-
-### Tries
-- [ ] Longest Word in Dictionary
-- [ ] Implement Trie Prefix Tree
-- [ ] Word Search II
-
-## Resources
 

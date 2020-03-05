@@ -17,5 +17,3 @@
 - [ ] Is Graph Bipartite
 - [ ] Word Search
 - [ ] Course Schedule II
-- [ ] Longest Increasing Path in a Matrix
-- [ ] Network Delay Time

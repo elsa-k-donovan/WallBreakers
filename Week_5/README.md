@@ -10,6 +10,7 @@
 - [ ] Diameter of Binary Tree
 - [ ] Longest Univalue Path
 - [ ] Find Bottom Left Tree Value
+- [ ] Longest Increasing Path in a Matrix
 
 ### Graphs
 - [ ] Course Schedule

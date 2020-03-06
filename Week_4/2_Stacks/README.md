@@ -11,7 +11,7 @@
 ### Stacks
 - [ ] Baseball Game
 - [ ] Next Greater Element I
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Score of Parentheses
 
 ### Queues
